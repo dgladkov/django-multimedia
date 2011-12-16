@@ -8,7 +8,7 @@ install_requires = [
     'django-celery',
     'django-filer',
     'paramiko',
-    'pycrypto==2.0.1',
+    'pycrypto',
 ]
 
 setup(
